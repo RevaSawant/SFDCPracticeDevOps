@@ -1,0 +1,11 @@
+src/email/My_data
+src/email/My_data-meta.xml
+src/email/emailtest
+src/email/emailtest-meta.xml
+src/email/My_data/SupportCaseResponse.email
+src/email/My_data/SupportCaseResponse.email-meta.xml
+src/email/emailtest/SupportEscalatedCaseNotification.email
+src/email/emailtest/SupportEscalatedCaseNotification.email-meta.xml
+src/reports/myreports
+src/reports/myreports-meta.xml
+src/reports/myreports/AccountReports.report
