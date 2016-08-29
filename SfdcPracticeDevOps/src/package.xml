@@ -10,6 +10,7 @@
     <types>
         <members>myreports</members>
         <members>myreports/AccountReports</members>
+        <members>myreports/contactreport</members>
         <name>Report</name>
     </types>
     <version>36.0</version>
