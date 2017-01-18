@@ -35,7 +35,7 @@
         </apex:pageBlockTable>
            </apex:outputpanel>
            <apex:outputpanel rendered="{!AND(NOT(clickSearch),searchInvoiceList.empty)}">
-        <h2> No Invoice Found. Do you want to add new </h2><br/><br/>
+        <h2> No Invoice Found. Do you want to add new ?</h2><br/><br/>
         <apex:commandbutton value="Add Invoice" action="{!URLFOR($Action.Invoice__c.New)}" />
         </apex:outputpanel>
     </apex:pageBlock>
