@@ -7,7 +7,7 @@ public class testclass {
     	
     }catch(Exception e)
     {
-    system.debuge('  '+test);
+    system.debuge('  '+test1);
     }*/
     }
 }
