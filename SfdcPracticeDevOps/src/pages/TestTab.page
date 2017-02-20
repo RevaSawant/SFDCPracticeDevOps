@@ -1,7 +1,7 @@
 <apex:page Controller="InvoiceController" showHeader="false" sidebar="false">
 
 <apex:form >
-
+<h1> Hello Everyone !!!!  Today is  :: {!currentTime} </h1>
   <apex:pageBlock >
   <apex:commandbutton value="Back" action="{!BackToHome}" rendered="{!NOT(clickSearch)}"/>&nbsp;&nbsp;&nbsp;
   <apex:inputText value="{!searchValue}"/>&nbsp;&nbsp;&nbsp; 
